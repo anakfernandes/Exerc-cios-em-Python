@@ -1,2 +1,2 @@
-# Exerc-cios-em-Python
+# Exercícios-em-Python
 Repositório criado para armazenar exercícios feitos 
