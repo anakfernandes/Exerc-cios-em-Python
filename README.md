@@ -1,2 +1,2 @@
 # Exercícios-em-Python
-Repositório criado para armazenar exercícios feitos 
+Repositório criado para armazenar exercícios feitos no Beecrowd
